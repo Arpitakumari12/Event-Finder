@@ -20,11 +20,6 @@ Welcome to TicketMasterApp, your go-to app for discovering events happening all 
 - **Category Search:**
   Filter events by specific categories such as music, sports, arts, and more.
 
-
-## Coming Soon
-- **Offer Notifications:**
-Receive notifications about special offers and promotions for selected events.
-
 ## How to Run
 Follow these steps to get TicketMasterApp up and running on your local machine
 
